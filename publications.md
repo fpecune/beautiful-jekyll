@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Publications
 subtitle: Why you'd want to go on a date with me
 ---
 
 ### Journal Papers
+-------------
 
-**An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept**
+**An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept** \\
 Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud
 Biologically Inspired Cognitive Architecture (BICA)
 2018.
