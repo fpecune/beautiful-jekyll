@@ -6,6 +6,8 @@ title: Research Projects
 ### InMind
 -------------
 
+Nice project
+
 ### SARA
 -------------
 
