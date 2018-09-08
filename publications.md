@@ -107,7 +107,7 @@ Rouen, France, Juillet 2014. [[pdf]](../publis/WACAI2014.pdf)
 **Vers des Agents Conversationnels Animés Socio-Affectifs** <br/>
 Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian Pecune, Nadine Glas, Ken Prepin, Chloé Clavel, Catherine Pelachaud <br/>
 *Conférence francophone sur l'Interaction Homme-Machine (IHM’13)* <br/>
-Bordeaux, France, November 2013. [pdf]
+Bordeaux, France, November 2013. [[pdf]](../publis/IHM2013.pdf)
 
 **De l'intercompréhension à la complémentarité des relations sociales humain-machine** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
@@ -125,7 +125,7 @@ Grenoble, France, November 2012. [[pdf]](../publis/WACAI2012.pdf) <br/><br/><br/
 **Emotion and Attitude Modeling for Non-player Characters** <br/>
 Brian Ravenet, Florian Pecune, Mathieu Chollet, Catherine Pelachaud <br/>
 *Emotion in Games - Theory and Practix, K. Karpouzis and G. Yannakakis , Springer* <br/>
-2016.
+2016. [[pdf]](../publis/Book2016.pdf)
 
 **De l'intercompréhension à la complémentarité des relations sociales humain-machine** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
