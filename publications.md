@@ -6,12 +6,12 @@ subtitle: Why you'd want to go on a date with me
 
 ### Journal Papers
 
-An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept
+**An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept**
 Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud
 Biologically Inspired Cognitive Architecture (BICA)
 2018.
     
-Implementing and evaluating a laughing virtual character
+**Implementing and evaluating a laughing virtual character**
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri
 Transactions on Internet Technology (TOIT)
 2017.
