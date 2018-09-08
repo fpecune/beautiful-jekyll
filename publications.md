@@ -24,7 +24,9 @@ Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza <b
 **Vers des Agents Conversationnels Animés Socio-affectifs** <br/>
 Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian Pecune, Nadine Glas, Ken Prepin, Chloé Clavel, Catherine Pelachaud <br/>
 *Journal d'Interaction Personne-Système (JIPS)* <br/>
-Mars 2014.
+Mars 2014. <br/><br/><br/><br/>
+
+
 
 ### International Conferences and Workshops
 -------------
@@ -92,7 +94,7 @@ Toulouse, France, December 2013. [pdf]
 **Toward a Computational Model of Social Relations for Artificial Companions** <br/>
 Florian Pecune <br/>
 *(Doctoral Consortium) Affective Computing and Intelligent Interaction (ACII'13)* <br/>
-Geneva, Switzerland, September 2013. [pdf]
+Geneva, Switzerland, September 2013. [pdf] <br/><br/><br/><br/>
 
 ### Domestic Conferences
 -------------
@@ -115,7 +117,7 @@ Lorient, France, October 2013. [pdf]
 **Vers un modèle computationnel de l'influence de la personnalité d'un ACA sur son comportement** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
 *Workshop Affect, Compagnon Artificiel, Interaction (WACAI’12)* <br/>
-Grenoble, France, November 2012. [pdf]
+Grenoble, France, November 2012. [pdf] <br/><br/><br/><br/>
 
 ### Book Chapters
 -------------
