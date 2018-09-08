@@ -16,4 +16,3 @@ My research interests are: <br/>
 - Designing virtual agents able to build and maintain long-term relationships with users
 - Modeling the dynamics of virtual agent's mental and affective states
 - Adapting virtual agents' behaviors to users using cognitive strategies and reactive mimetic
-
