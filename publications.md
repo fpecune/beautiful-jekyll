@@ -9,12 +9,12 @@ title: Publications
 **An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept** <br/>
 Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud <br/>
 *Biologically Inspired Cognitive Architecture (BICA)* <br/>
-2018. \[ [pdf] \](publis/BICA2018.pdf)
+2018. [ [pdf] ](publis/BICA2018.pdf)
     
 **Implementing and evaluating a laughing virtual character** <br/>
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
 *Transactions on Internet Technology (TOIT)* <br/>
-2017. \[ [pdf] \](publis/Beatrice.pdf)
+2017. [[pdf]](publis/Beatrice.pdf)
     
 **Affective Interaction with a Virtual Character through an fNIRS Brain-Computer Interface** <br/>
 Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza <br/>
@@ -39,62 +39,62 @@ Sidney, November 2018.
 **Field Trial Analysis of Socially-Aware Robot Assistant** <br/>
 Florian Pecune, Jingya Chen, Yoichi Matsuyama, Justine Cassell <br/>
 *International Conference on Autonomous Agents and Multiagent Systems (AAMAS’18)* <br/>
-Stockholm, July 2018. \[[pdf]\](publis/AAMAS2018_1.pdf)
+Stockholm, July 2018. [[pdf]](publis/AAMAS2018_1.pdf)
 
 **Socially-Conditioned Task Reasoning for a Virtual Tutoring Agent** <br/>
 Zian Zhao, Michael Madaio, Florian Pecune, Yoichi Matsuyama, Justine Cassell <br/>
 *International Conference on Autonomous Agents and Multiagent Systems (AAMAS’18)* <br/>
-Stockholm, July 2018. \[[pdf]\](publis/AAMAS2018_2.pdf)
+Stockholm, July 2018. [[pdf]](publis/AAMAS2018_2.pdf)
 
 **Faster Responses are Better Responses: Introducing Incrementality into Sociable Virtual Personal Assistants** <br/>
 Vivian Tsai, Timo Baumann, Florian Pecune, Justine Cassell <br/>
 *International Workshop on Spoken Dialog System Technology (IWSDS’18)* <br/>
-Singapore, May 2018.
+Singapore, May 2018. [[pdf]](publis/IWSDS2018.pdf)
 
 **Evaluating Social Attitudes of a Virtual Tutor** <br/>
 Florian Pecune, Angelo Cafaro, Magalie Ochs, and Catherine Pelachaud <br/>
 *International Conference on Intelligent Virtual Agents (IVA’16)* <br/>
-Los Angeles, Septembre 2016. [pdf]
+Los Angeles, Septembre 2016. [[pdf]](publis/IVA2016.pdf)
 
 **SOCRATES: from SOCial Relations to ATtitude ExpressionS** <br/>
 Florian Pecune, Magalie Ochs, Stacy Marsella, Catherine Pelachaud <br/>
 *International Conference on Autonomous Agents and Multiagent Systems (AAMAS’16)* <br/>
-Singapore, Mai 2016. [pdf]
+Singapore, Mai 2016. [[pdf]](publis/AAMAS2016.pdf)
 
 **ECA Control using a Single Affective User Dimension** <br/>
 Fred Charles, Florian Pecune, Gabor Aranyi, Catherine Pelachaud, Marc Cavazza <br/>
 *International Conference on Multimodal Interaction (ICMI’15)* <br/>
-Seattle, USA, November 2015. [pdf]
+Seattle, USA, November 2015. [[pdf]](publis/ICMI2015.pdf)
 
 **Laughing with a Virtual Agent** <br/>
 Florian Pecune, Beatrice Biancardi, Yu Ding, Catherine Pelachaud, Maurizio Mancini, Giovana Varni, Gualtiero Volpe, Antonio Camurri <br/>
 *International Conference on Autonomous Agents and Multiagent Systems (AAMAS’15)* <br/>
-Istanbul, Turkey, May 2015. [pdf]
+Istanbul, Turkey, May 2015. [[pdf]](publis/AAMAS2015.pdf)
 
 **LOL - Laugh Out Loud** <br/>
 Florian Pecune, Beatrice Biancardi, Yu Ding, Catherine Pelachaud, Maurizio Mancini, Giovana Varni, Gualtiero Volpe, Antonio Camurri <br/>
 *International Conference on Artificial Intelligence (AAAI’15)* <br/>
-Austin, USA, January 2015. [pdf]
+Austin, USA, January 2015. [[pdf]](publis/AAAI2015.pdf)
 
 **Suggestions for Extending SAIBA with the VIB Platform** <br/>
 Florian Pecune, Angelo Cafaro, Mathieu Chollet, Pierre Philippe, Catherine Pelachaud <br/>
 *Workshop on Architectures and Standards for Intelligent Virtual Agents (WASIVA’14)* <br/>
-Boston, USA, August 2014. [pdf]
+Boston, USA, August 2014. [[pdf]](publis/WASIVA2014.pdf)
 
 **A Cognitive Model of Social Relations for Artificial Companions** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
 *Intelligent Virtual Agents (IVA’14)* <br/>
-Boston, USA, August 2014. [pdf]
+Boston, USA, August 2014. [[pdf]](publis/IVA2014.pdf)
 
 **A Formal Model of Social Relations for Artificial Companions** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
 *European Conference on Multi-Agent Systems (EUMAS’13)* <br/>
-Toulouse, France, December 2013. [pdf]
+Toulouse, France, December 2013. [[pdf]](publis/EUMAS2013.pdf)
 
 **Toward a Computational Model of Social Relations for Artificial Companions** <br/>
 Florian Pecune <br/>
 *(Doctoral Consortium) Affective Computing and Intelligent Interaction (ACII'13)* <br/>
-Geneva, Switzerland, September 2013. [pdf] <br/><br/><br/><br/>
+Geneva, Switzerland, September 2013. [[pdf]](publis/ACII2013.pdf) <br/><br/><br/><br/>
 
 ### Domestic Conferences
 -------------
@@ -102,7 +102,7 @@ Geneva, Switzerland, September 2013. [pdf] <br/><br/><br/><br/>
 **Modélisation de l’influence de la personnalité d’un compagnon artificiel sur ses attitudes sociales** <br/>
 Florian Pecune, Caroline Faur, Magalie Ochs, Celine Clavel, Catherine Pelachaud, Jean-Claude Martin <br/>
 *Workshop Affect, Compagnon Artificiel, Interaction (WACAI’14)* <br/>
-Rouen, France, Juillet 2014. [pdf]
+Rouen, France, Juillet 2014. [[pdf]](publis/WACAI2014.pdf)
 
 **Vers des Agents Conversationnels Animés Socio-Affectifs** <br/>
 Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian Pecune, Nadine Glas, Ken Prepin, Chloé Clavel, Catherine Pelachaud <br/>
@@ -112,12 +112,12 @@ Bordeaux, France, November 2013. [pdf]
 **De l'intercompréhension à la complémentarité des relations sociales humain-machine** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
 *Intercompéhension de l'Intraspécifique à l'Interspécifique (III’13)* <br/>
-Lorient, France, October 2013. [pdf]
+Lorient, France, October 2013. [[pdf]](publis/III2013.pdf)
 
 **Vers un modèle computationnel de l'influence de la personnalité d'un ACA sur son comportement** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
 *Workshop Affect, Compagnon Artificiel, Interaction (WACAI’12)* <br/>
-Grenoble, France, November 2012. [pdf] <br/><br/><br/><br/>
+Grenoble, France, November 2012. [[pdf]](publis/WACAI2012.pdf) <br/><br/><br/><br/>
 
 ### Book Chapters
 -------------
