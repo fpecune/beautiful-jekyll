@@ -6,12 +6,14 @@ title: Research Projects
 ### InMind
 -------------
 
-[![](../images/InMind.jpg)](http://http://articulab.hcii.cs.cmu.edu/projects/yahoo/ "Articulab InMind")
+[![](../img/InMind.jpg)](http://articulab.hcii.cs.cmu.edu/projects/yahoo/ "Articulab InMind")
 
 Nice project
 
 ### SARA
 -------------
+
+[![](../img/SARA.jpg)](http://articulab.hcii.cs.cmu.edu/projects/sara/ "Articulab SARA")
 
 ### MoCA
 -------------
