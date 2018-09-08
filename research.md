@@ -85,4 +85,4 @@ As a part of the InMind, our team focuses on creating an autonomous virtual pers
 >Implementing and evaluating a laughing virtual character <br/>
 >Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
 >Transactions on Internet Technology (TOIT) <br/>
->2017. [[pdf]](../publis/TOIT2017.pdf)
+>2017 [[pdf]](../publis/TOIT2017.pdf)
