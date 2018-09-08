@@ -14,7 +14,7 @@ Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud <br/>
 **Implementing and evaluating a laughing virtual character** <br/>
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
 *Transactions on Internet Technology (TOIT)* <br/>
-2017 [[pdf]](../publis/TOIT2017.pdf)
+2017 [[pdf]](../publis/TOIT-2017.pdf)
 
 **Affective Interaction with a Virtual Character through an fNIRS Brain-Computer Interface** <br/>
 Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza <br/>
