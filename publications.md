@@ -125,9 +125,9 @@ Grenoble, France, November 2012. [[pdf]](../publis/WACAI2012.pdf) <br/><br/><br/
 **Emotion and Attitude Modeling for Non-player Characters** <br/>
 Brian Ravenet, Florian Pecune, Mathieu Chollet, Catherine Pelachaud <br/>
 *Emotion in Games - Theory and Practix, K. Karpouzis and G. Yannakakis , Springer* <br/>
-2016. [[pdf]](../publis/Book2016.pdf)
+2016 [[pdf]](../publis/Book2016.pdf)
 
 **De l'intercompréhension à la complémentarité des relations sociales humain-machine** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
 *Intercompéhension de l'intraspécifique à l'interspécifique* <br/>
-2014.
+2014
