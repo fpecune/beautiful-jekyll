@@ -27,7 +27,7 @@ As a part of the InMind, our team focuses on creating an autonomous virtual pers
 ### MoCA
 -------------
 
-[![](https://fpecune.github.io/img/Neuro.png)](http://articulab.hcii.cs.cmu.edu/projects/yahoo/ "Articulab InMind")
+[![](https://fpecune.github.io/img/MoCA.png)](http://articulab.hcii.cs.cmu.edu/projects/yahoo/ "Articulab InMind")
 
 In 2014, Yahoo! and Carnegie Mellon University (CMU) have announced a five-year, $10 million partnership, called the InMind project. The goal of InMind is to invent, implement, experiment, and iterate with an intelligent assistant for mobile devices. Major companies are already exploring intelligent assistants such as Siri, and Google Now, M, and Cortana, and we expect they will continue to develop these. To make an impact as a university, our goal is not to compete with incremental extensions these systems will make over the next year or two, but instead to use InMind as a research prototype to invent intelligent assistant capabilities that may become widespread in a 5-15 year horizon – the intelligent assistants of 2025. <br/>
 
