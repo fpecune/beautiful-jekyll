@@ -14,17 +14,17 @@ Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud <br/>
 **Implementing and evaluating a laughing virtual character** <br/>
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
 *Transactions on Internet Technology (TOIT)* <br/>
-2017 [[pdf]](../publis/Beatrice2017.pdf)
+2017 [[pdf]](../publis/TOIT2017.pdf)
 
 **Affective Interaction with a Virtual Character through an fNIRS Brain-Computer Interface** <br/>
 Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza <br/>
 *Frontiers in Computational Neuroscience* <br/>
-2016
+2016 [[pdf]](../publis/Frontiers2016.pdf)
     
 **Vers des Agents Conversationnels Animés Socio-affectifs** <br/>
 Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian Pecune, Nadine Glas, Ken Prepin, Chloé Clavel, Catherine Pelachaud <br/>
 *Journal d'Interaction Personne-Système (JIPS)* <br/>
-2014 <br/><br/><br/><br/>
+2014 [[pdf]](../publis/JIPS2014.pdf) <br/><br/><br/><br/>
 
 
 
@@ -34,7 +34,7 @@ Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian 
 **A User Simulator Architecture for Socially-Aware Conversational Agents** <br/>
 Alankar Jain, Florian Pecune, Yoichi Matsuyama, Justine Cassell <br/>
 *International Conference on Intelligent Virtual Agents (IVA’18)* <br/>
-Sidney, November 2018.
+Sidney, November 2018. [[preprint]](../publis/IVA2018.pdf)
 
 **Field Trial Analysis of Socially-Aware Robot Assistant** <br/>
 Florian Pecune, Jingya Chen, Yoichi Matsuyama, Justine Cassell <br/>
