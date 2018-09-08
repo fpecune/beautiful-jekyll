@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <br/><br/> Publications
+title: <br/>Publications
 ---
 
 ### Journal Papers
@@ -9,7 +9,7 @@ title: <br/><br/> Publications
 **An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept** <br/>
 Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud <br/>
 *Biologically Inspired Cognitive Architecture (BICA)* <br/>
-20112 [[pdf]](../publis/BICA2018.pdf)
+2018. [[pdf]](../publis/BICA2018.pdf)
 
 **Implementing and evaluating a laughing virtual character** <br/>
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
