@@ -10,6 +10,10 @@ title: Research Projects
 
 Nice project
 
+![](https://fpecune.github.io/img/InMind.jpg)
+
+> Follow your heart.
+
 ### SARA
 -------------
 
