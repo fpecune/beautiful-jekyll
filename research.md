@@ -6,13 +6,10 @@ title: Research Projects
 ### InMind
 -------------
 
-[![](../img/InMind.jpg)](http://articulab.hcii.cs.cmu.edu/projects/yahoo/ "Articulab InMind")
+[![](https://fpecune.github.io/img/InMind.jpg)](http://articulab.hcii.cs.cmu.edu/projects/yahoo/ "Articulab InMind")
 
 Nice project
 
-![](https://fpecune.github.io/img/InMind.jpg)
-
-> Follow your heart.
 
 ### SARA
 -------------
