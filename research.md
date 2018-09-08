@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <br/>Research Projects
+title: Research Projects
 ---
 
 ### InMind
