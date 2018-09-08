@@ -18,7 +18,7 @@ As a part of the InMind, our team focuses on creating an autonomous virtual pers
 >International Conference on Intelligent Virtual Agents (IVA’18) <br/>
 >Sidney, November 2018.
 
-<br/><br/><br/>
+<br/>
 
 ### SARA
 -------------
