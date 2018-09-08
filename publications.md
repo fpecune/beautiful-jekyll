@@ -8,12 +8,12 @@ title: Publications
 
 **An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept** <br/>
 Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud <br/>
-*Biologically Inspired Cognitive Architecture (BICA)* <br/>
+*Biologically Inspired Cognitive Architecture (BICA)* [pdf](publis/BICA2018.pdf) <br/>
 2018.
     
 **Implementing and evaluating a laughing virtual character** <br/>
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
-*Transactions on Internet Technology (TOIT)* <br/>
+*Transactions on Internet Technology (TOIT)* [pdf](publis/Beatrice.pdf)<br/>
 2017.
     
 **Affective Interaction with a Virtual Character through an fNIRS Brain-Computer Interface** <br/>
@@ -38,12 +38,12 @@ Sidney, November 2018.
 
 **Field Trial Analysis of Socially-Aware Robot Assistant** <br/>
 Florian Pecune, Jingya Chen, Yoichi Matsuyama, Justine Cassell <br/>
-*International Conference on Autonomous Agents and Multiagent Systems (AAMAS’18)* <br/>
+*International Conference on Autonomous Agents and Multiagent Systems (AAMAS’18)* [pdf](publis/AAMAS2018_1.pdf)<br/>
 Stockholm, July 2018. [pdf]
 
 **Socially-Conditioned Task Reasoning for a Virtual Tutoring Agent** <br/>
 Zian Zhao, Michael Madaio, Florian Pecune, Yoichi Matsuyama, Justine Cassell <br/>
-*International Conference on Autonomous Agents and Multiagent Systems (AAMAS’18)* <br/>
+*International Conference on Autonomous Agents and Multiagent Systems (AAMAS’18)* [pdf](publis/AAMAS2018_2.pdf)<br/>
 Stockholm, July 2018. [pdf]
 
 **Faster Responses are Better Responses: Introducing Incrementality into Sociable Virtual Personal Assistants** <br/>
