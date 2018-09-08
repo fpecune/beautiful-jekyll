@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <br/>Publications
+title: Publications
 ---
 
 ### Journal Papers
