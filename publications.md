@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-subtitle: Publications
+title: Publications
 ---
 
 ### Journal Papers
