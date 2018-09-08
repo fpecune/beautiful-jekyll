@@ -7,24 +7,24 @@ subtitle: Why you'd want to go on a date with me
 ### Journal Papers
 
 An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept
-    Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud
-    Biologically Inspired Cognitive Architecture (BICA)
-    2018.
+Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud
+Biologically Inspired Cognitive Architecture (BICA)
+2018.
     
 Implementing and evaluating a laughing virtual character
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri
-    Transactions on Internet Technology (TOIT)
-    2017.
+Transactions on Internet Technology (TOIT)
+2017.
     
 Affective Interaction with a Virtual Character through an fNIRS Brain-Computer Interface
-    Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza
-    Frontiers in Computational Neuroscience
-    2016.
+Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza
+Frontiers in Computational Neuroscience
+2016.
     
 Vers des Agents Conversationnels Animés Socio-affectifs
-    Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian Pecune, Nadine Glas, Ken Prepin, Chloé Clavel, Catherine Pelachaud
-    Journal d'Interaction Personne-Système (JIPS)
-    Mars 2014.
+Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian Pecune, Nadine Glas, Ken Prepin, Chloé Clavel, Catherine Pelachaud
+Journal d'Interaction Personne-Système (JIPS)
+Mars 2014.
 
 ### International Conferences and Workshops
 
