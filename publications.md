@@ -130,7 +130,6 @@ Brian Ravenet, Florian Pecune, Mathieu Chollet, Catherine Pelachaud <br/>
 **De l'intercompréhension à la complémentarité des relations sociales humain-machine** <br/>
 Florian Pecune, Magalie Ochs, Catherine Pelachaud <br/>
 *Intercompéhension de l'intraspécifique à l'interspécifique* <br/>
-2015. <br/>
+20146
 
 Toto
-tytyt
