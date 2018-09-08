@@ -14,7 +14,7 @@ Nice project
 ### SARA
 -------------
 
-[![](../img/SARA.jpg)](http://articulab.hcii.cs.cmu.edu/projects/sara/ "Articulab SARA")
+[![](https://fpecune.github.io/img/SARA.jpg)](http://articulab.hcii.cs.cmu.edu/projects/sara/ "Articulab SARA")
 
 ### MoCA
 -------------
