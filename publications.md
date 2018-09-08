@@ -9,12 +9,12 @@ title: Publications
 **An embodied virtual agent platform for emotional Stroop effect experiments: A proof of concept** <br/>
 Ali Oker, Nadine Glas, Florian Pecune, Catherine Pelachaud <br/>
 *Biologically Inspired Cognitive Architecture (BICA)* <br/>
-2018 [[pdf]](../publis/BICA2018.pdf)
+2018. [[pdf]](../publis/BICA2018.pdf)
 
 **Implementing and evaluating a laughing virtual character** <br/>
 Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
 *Transactions on Internet Technology (TOIT)* <br/>
-2017 [[pdf]](../publis/Beatrice2017.pdf)
+2017. [[pdf]](../publis/Beatrice2017.pdf)
 
 **Affective Interaction with a Virtual Character through an fNIRS Brain-Computer Interface** <br/>
 Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza <br/>
@@ -24,7 +24,7 @@ Gabor Aranyi, Florian Pecune, Fred Charles, Catherine Pelachaud, Marc Cavazza <b
 **Vers des Agents Conversationnels Animés Socio-affectifs** <br/>
 Magalie Ochs, Yu Ding, Nesrine Fourati, Mathieu Chollet, Brian Ravenet, Florian Pecune, Nadine Glas, Ken Prepin, Chloé Clavel, Catherine Pelachaud <br/>
 *Journal d'Interaction Personne-Système (JIPS)* <br/>
-Mars 2014. <br/><br/><br/><br/>
+2014. <br/><br/><br/><br/>
 
 
 
