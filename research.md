@@ -16,7 +16,7 @@ As a part of the InMind, our team focuses on creating an autonomous virtual pers
 > A User Simulator Architecture for Socially-Aware Conversational Agents <br/>
 >Alankar Jain, Florian Pecune, Yoichi Matsuyama, Justine Cassell <br/>
 >International Conference on Intelligent Virtual Agents (IVA’18) <br/>
->Sidney, November 2018.
+>Sidney, November 2018. 
 
 <br/>
 
@@ -34,7 +34,7 @@ As a part of the InMind, our team focuses on creating an autonomous virtual pers
 >Field Trial Analysis of Socially-Aware Robot Assistant <br/>
 >Florian Pecune, Jingya Chen, Yoichi Matsuyama, Justine Cassell <br/>
 >International Conference on Autonomous Agents and Multiagent Systems (AAMAS’18) <br/>
->Stockholm, July 2018.
+>Stockholm, July 2018. [[pdf]](../publis/AAMAS2018_1.pdf)
 
 <br/>
 
@@ -51,7 +51,7 @@ As a part of the InMind, our team focuses on creating an autonomous virtual pers
 >SOCRATES: from SOCial Relations to ATtitude ExpressionS <br/>
 >Florian Pecune, Magalie Ochs, Stacy Marsella, Catherine Pelachaud <br/>
 >International Conference on Autonomous Agents and Multiagent Systems (AAMAS’16) <br/>
->Singapore, Mai 2016.
+>Singapore, Mai 2016. [[pdf]](../publis/AAMAS2016.pdf)
 
 <br/>
 
@@ -82,7 +82,7 @@ In 2014, Yahoo! and Carnegie Mellon University (CMU) have announced a five-year,
 As a part of the InMind, our team focuses on creating an autonomous virtual personal assistant that will build long lasting relationships with people through managing rapport between them and itself. The biggest challenge of this project is to develop personal assistants at “real scale”. Built on top of the Multi-User Framework [Romero et al. 2018] , news and movie recommendation personal assistants have been deployed on Android phones.
 
 **Selected Publication** <br/>
-Implementing and evaluating a laughing virtual character <br/>
-Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
-Transactions on Internet Technology (TOIT) <br/>
-2017.
+>Implementing and evaluating a laughing virtual character <br/>
+>Maurizio Mancini, Beatrice Biancardi, Florian Pecune, Giovanna Varni, Yu Ding, Catherine Pelachaud, Gualtiero Volpe, Antonio Camurri <br/>
+>Transactions on Internet Technology (TOIT) <br/>
+>2017. [[pdf]](../publis/TOIT2017.pdf)
