@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "research"
   Publications: "publications"
+  CV: "http://fpecune.github.io/CV.pdf"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
